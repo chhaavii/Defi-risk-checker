@@ -46,5 +46,29 @@
     "tx_hash": "0xaf42fa49ecefcbb2f4390afeff0dc1143a8faba6a8339787adc0e3440809ed37",
     "block_number": 6540007,
     "network": "Sepolia Testnet (Simulated Provider)"
+  },
+  "0x680a2bcb3e1f0fe66a955bfde0f26c1c89740400": {
+    "wallet_address": "0x680A2bCb3E1f0FE66A955bfde0F26C1C89740400",
+    "decision_hash": "0x55ce514f5338e2f73413bba7da3f8690b1574938c5294b2dce60d322eb114c84",
+    "timestamp": 1790447610,
+    "tx_hash": "0x5b34df4f6bc65de70892e4f1017280b4de1aa96b2e680562d133458c7bdbfdba",
+    "block_number": 6540007,
+    "network": "Sepolia Testnet (Simulated Provider)"
+  },
+  "0xcd70059a8564943600b289ebd07e9443a73390da": {
+    "wallet_address": "0xCd70059A8564943600b289EbD07e9443A73390Da",
+    "decision_hash": "0x518abf2fa9714121afc92cf5799b5443ae9242defb2a0c76cd4c70735e5e483b",
+    "timestamp": 1790448568,
+    "tx_hash": "0x5ecdbde512579f6e30d6cfba02b1f4985b5fa3abcd0a3751ecdb35bad1bf5e96",
+    "block_number": 6540009,
+    "network": "Sepolia Testnet (Simulated Provider)"
+  },
+  "0x36160d2b2cd4972a8616715e3aa5e3818752d18e": {
+    "wallet_address": "0x36160d2b2cD4972a8616715e3Aa5E3818752D18e",
+    "decision_hash": "0x5e01b64b9721cb41801327302e0e81439d131d05275061b75c0f0adb3554b723",
+    "timestamp": 1790449622,
+    "tx_hash": "0x329947985fc183cbdeaf2808f22b002df367ef1c1653bd98e85eccdbff2ed59f",
+    "block_number": 6540009,
+    "network": "Sepolia Testnet (Simulated Provider)"
   }
 }

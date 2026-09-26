@@ -72,7 +72,7 @@
       },
       "cached": true
     },
-    "timestamp": 1790411223,
+    "timestamp": 1790446919,
     "quantum_model": "QSVC"
   },
   "0xee6847c25b322b40e5ace484fd2b2fcda6fcf17f": {
@@ -105,7 +105,7 @@
       },
       "cached": true
     },
-    "timestamp": 1790411226,
+    "timestamp": 1790447568,
     "quantum_model": "QSVC"
   },
   "0xcd70059a8564943600b289ebd07e9443a73390da": {
@@ -138,7 +138,7 @@
       },
       "cached": true
     },
-    "timestamp": 1790411173,
+    "timestamp": 1790448666,
     "quantum_model": "QSVC"
   },
   "0x9f243d157affd94744a0a866b3d02fecc9d1bdb7": {
@@ -214,8 +214,18 @@
       },
       "cached": true
     },
-    "timestamp": 1790411232,
-    "quantum_model": "QSVC"
+    "timestamp": 1790449611,
+    "quantum_model": "QSVC",
+    "on_chain": {
+      "network": "Sepolia Testnet (Simulated Provider)",
+      "status": "confirmed",
+      "tx_hash": "0x329947985fc183cbdeaf2808f22b002df367ef1c1653bd98e85eccdbff2ed59f",
+      "block_number": 6540009,
+      "wallet_address": "0x36160d2b2cD4972a8616715e3Aa5E3818752D18e",
+      "decision_hash": "0x5e01b64b9721cb41801327302e0e81439d131d05275061b75c0f0adb3554b723",
+      "timestamp": 1790449622,
+      "explorer_url": "https://sepolia.etherscan.io/tx/0x329947985fc183cbdeaf2808f22b002df367ef1c1653bd98e85eccdbff2ed59f"
+    }
   },
   "0xeffeb936ccffc2dc0c7972291277fd7d294b6c01": {
     "wallet_address": "0xeFfeb936cCffC2DC0C7972291277fD7d294b6C01",
@@ -247,7 +257,7 @@
       },
       "cached": true
     },
-    "timestamp": 1790411242,
+    "timestamp": 1790448678,
     "quantum_model": "QSVC"
   },
   "0x505feabf8e6b7467845cc58fd1a01f4f6011b837": {
@@ -531,7 +541,7 @@
       },
       "cached": true
     },
-    "timestamp": 1790411199,
+    "timestamp": 1790448634,
     "quantum_model": "QSVC"
   },
   "0xd956bfbbddf99d652d367ffb0925638bbb5638f6": {
