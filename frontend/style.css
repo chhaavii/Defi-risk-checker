@@ -346,7 +346,20 @@ button { font-family: var(--font-sans); cursor: pointer; border: none; backgroun
   white-space: nowrap;
   overflow: hidden;
 }
-.headline-line { display: block; white-space: nowrap; }
+.headline-line {
+  display: inline;
+  white-space: nowrap;
+  background: rgba(232, 228, 220, 0.13);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  border-radius: 5px;
+  padding: 0.05em 0.22em;
+  /* Subtle warm-white glow around the highlight */
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.06);
+}
+
+/* Wrap each line so inline spans still stack vertically */
+.headline { display: flex; flex-direction: column; align-items: center; }
 
 /* Subhead */
 .subhead {
